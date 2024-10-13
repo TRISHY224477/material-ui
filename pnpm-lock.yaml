@@ -121,8 +121,8 @@ importers:
         specifier: ^4.17.10
         version: 4.17.10
       '@types/mocha':
-        specifier: ^10.0.8
-        version: 10.0.8
+        specifier: ^10.0.9
+        version: 10.0.9
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -1176,8 +1176,8 @@ importers:
         specifier: 4.0.4
         version: 4.0.4
       '@types/mocha':
-        specifier: ^10.0.8
-        version: 10.0.8
+        specifier: ^10.0.9
+        version: 10.0.9
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -1213,8 +1213,8 @@ importers:
         specifier: ^4.3.20
         version: 4.3.20
       '@types/mocha':
-        specifier: ^10.0.8
-        version: 10.0.8
+        specifier: ^10.0.9
+        version: 10.0.9
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -2157,8 +2157,8 @@ importers:
         specifier: ^4.3.20
         version: 4.3.20
       '@types/mocha':
-        specifier: ^10.0.8
-        version: 10.0.8
+        specifier: ^10.0.9
+        version: 10.0.9
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -2210,8 +2210,8 @@ importers:
         version: 17.7.2
     devDependencies:
       '@types/mocha':
-        specifier: ^10.0.8
-        version: 10.0.8
+        specifier: ^10.0.9
+        version: 10.0.9
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -5541,8 +5541,8 @@ packages:
   '@types/minimist@1.2.2':
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
 
-  '@types/mocha@10.0.8':
-    resolution: {integrity: sha512-HfMcUmy9hTMJh66VNcmeC9iVErIZJli2bszuXc6julh5YGuRb/W5OnkHjwLNYdFlMis0sY3If5SEAp+PktdJjw==}
+  '@types/mocha@10.0.9':
+    resolution: {integrity: sha512-sicdRoWtYevwxjOHNMPTl3vSfJM6oyW8o1wXeI7uww6b6xHg8eBznQDNSGBCDJmsE8UMxP05JgZRtsKbTqt//Q==}
 
   '@types/ms@0.7.34':
     resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
@@ -16823,7 +16823,7 @@ snapshots:
 
   '@types/minimist@1.2.2': {}
 
-  '@types/mocha@10.0.8': {}
+  '@types/mocha@10.0.9': {}
 
   '@types/ms@0.7.34': {}
 
